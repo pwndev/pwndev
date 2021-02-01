@@ -10,8 +10,8 @@
 
 ### Connect with me:
 [<img align="left" alt="https://genetv.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ytGeneTv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="GeneTv | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ytGeneTv | Twitter" width="22px" src="https://discord.com/assets/4662875160dc4c56954003ebda995414.png" />][twitter]
+[<img align="left" alt="GeneTv | YouTube" width="22px" src="https://discord.com/assets/449cca50c1452b4ace3cbe9bc5ae0fd6.png" />][youtube]
 <br />
 
 ### Languages and Tools:
