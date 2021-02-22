@@ -1,9 +1,9 @@
 ### Hi there, I'm [GeneTv][website] 👋
 [![Website](https://img.shields.io/website?label=genetv.net&style=for-the-badge&url=https%3A%2F%2Fgenetv.net)](https://genetv.net)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ytGeneTv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGeneTv&screen_name=ytGeneTv)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ytGeneTv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ytGeneTv&original_referer=https%3A%2F%2Fgithub.com%2FGeneTv)
 
 ## About me
-- 🔭 I’m currently working on different stuff
+- 🔭 I’m currently working on Traily
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: contact@genetv.net
 - 😄 Pronouns: he/him
@@ -24,4 +24,3 @@
 
 [website]: https://genetv.net
 [twitter]: https://twitter.com/ytGeneTv
-[youtube]: https://youtube.com/GeneTv
