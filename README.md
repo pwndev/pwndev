@@ -3,10 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ytGeneTv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ytGeneTv&original_referer=https%3A%2F%2Fgithub.com%2FGeneTv)
 
 ## About me
-- 🔭 I’m currently working on Traily
-- 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: contact@genetv.net
-- 😄 Pronouns: he/him
+I do Full Stack and Dev Ops work. But tbh I'm more of a Backend person cuz I suck at / don't enjoy complex CSS. Currently I'm working on [Traily](https://traily.ch) (sick app ^-^).
 
 ### Languages and Tools
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
