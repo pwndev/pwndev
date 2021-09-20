@@ -1,6 +1,6 @@
 ### Hi there, I'm [GeneTv][website] 👋
 [![Website](https://img.shields.io/website?label=genetv.net&style=for-the-badge&url=https%3A%2F%2Fgenetv.net)](https://genetv.net)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ytGeneTv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ytGeneTv&original_referer=https%3A%2F%2Fgithub.com%2FGeneTv)
+[![Twitter](https://img.shields.io/twitter/follow/ytGeneTv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ytGeneTv&original_referer=https%3A%2F%2Fgithub.com%2FGeneTv)
 
 ## About me
 I do Full Stack and Dev Ops work. But tbh I'm more of a Backend person cuz I suck at / don't enjoy complex CSS.
@@ -9,17 +9,27 @@ I do Full Stack and Dev Ops work. But tbh I'm more of a Backend person cuz I suc
 Currently I'm working on [Traily](https://traily.ch), a pretty sick app to simplify train travel in europe ^-^
 
 ### Languages and Tools
-<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<br />
-<br />
+![Docker](./icons/docker.svg)
+![Nginx](./icons/nginx.svg)
+![Bash](./icons/bash.svg)
+![Node](./icons/node.svg)
+![Java](./icons/java.svg)
+![MongoDB](./icons/mongodb.svg)
+
+![Vue](./icons/vue.svg)
+![HTML](./icons/html.svg)
+![CSS](./icons/css.svg)
+![Javascript](./icons/javascript.svg)
+![Javascript](./icons/typescript.svg)
+
+![Firebase](./icons/firebase.svg)
+![Google cloud](./icons/google-cloud.svg)
+![Figma](./icons/figma.svg)
+![MySQL](./icons/mysql.svg)
+
+<style>
+img:not(img[alt=Website]):not(img[alt=Twitter]) { height: 32px; width: 32px; }
+</style>
 
 [website]: https://genetv.net
 [twitter]: https://twitter.com/ytGeneTv
