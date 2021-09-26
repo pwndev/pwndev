@@ -9,13 +9,25 @@ I do Full Stack and Dev Ops work. But tbh I'm more of a Backend person cuz I suc
 Currently I'm working on [Traily](https://traily.ch), a pretty sick app to simplify train travel in europe ^-^
 
 ### Languages and Tools
-<div>
-  <img alt="Docker" width="32px" src="./icons/docker.svg" />
-  <img alt="Nginx" width="32px" src="./icons/nginx.svg" />
-  <img alt="Bash" width="32px" src="./icons/bash.svg" />
-  <img alt="Node" width="32px" src="./icons/node.svg" />
-  <img alt="MongoDB" width="32px" src="./icons/mongodb.svg" />
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h6> <b> Full Stack </b> </h6>
+      </div>
+      <div align="center">
+        <div>
+          <img alt="Docker" width="32px" src="./icons/docker.svg" />
+          <img alt="Nginx" width="32px" src="./icons/nginx.svg" />
+          <img alt="Bash" width="32px" src="./icons/bash.svg" />
+          <img alt="Node" width="32px" src="./icons/node.svg" />
+          <img alt="MongoDB" width="32px" src="./icons/mongodb.svg" />
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <div>
   <img alt="Vue" width="32px" src="./icons/vue.svg" />
