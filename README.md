@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ytGeneTv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ytGeneTv&original_referer=https%3A%2F%2Fgithub.com%2FGeneTv)
 
 ## About me
-I do Full Stack, Dev Ops work and things that somehow work but no one knows how. But tbh I'm more of a Backend person cuz I suck at / don't enjoy complex CSS.
+I do Full Stack, Dev Ops work and things that somehow work but no one knows why. I like doing different things in different languages, but tbh I'm more of a Backend person cuz I suck at / don't enjoy complex CSS.
 
 ### Work
 Currently I'm working on [Traily](https://traily.ch), a pretty sick app to simplify train travel in europe ^-^
