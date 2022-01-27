@@ -1,6 +1,5 @@
 ### Hi there, I'm [GeneTv][website] 👋
 [![Website](https://img.shields.io/website?label=genetv.net&style=for-the-badge&url=https%3A%2F%2Fgenetv.net)](https://genetv.net)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ytGeneTv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ytGeneTv&original_referer=https%3A%2F%2Fgithub.com%2FGeneTv)
 
 ## About me
 I do Full Stack, Dev Ops work and things that somehow work but no one knows why. I like doing different things in different languages, but tbh I'm more of a Backend person cuz I suck at / don't enjoy complex CSS.
@@ -37,4 +36,3 @@ Currently I'm working on [Traily](https://traily.ch), a pretty sick app to simpl
 
 
 [website]: https://genetv.net
-[twitter]: https://twitter.com/ytGeneTv
