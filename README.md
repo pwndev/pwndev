@@ -1,38 +1,21 @@
-### Hi there, I'm [GeneTv][website] 👋
-[![Website](https://img.shields.io/website?label=genetv.net&style=for-the-badge&url=https%3A%2F%2Fgenetv.net)](https://genetv.net)
-
-## About me
-I do Full Stack, Dev Ops work and things that somehow work but no one knows why. I like doing different things in different languages, but tbh I'm more of a Backend person cuz I suck at / don't enjoy complex CSS.
-
-### Work
-Currently I'm working on [Traily](https://traily.ch), a pretty sick app to simplify train travel in europe ^-^
-
-### Languages and Tools
 <div>
-  <img alt="Docker" width="32px" src="./icons/docker.svg" />
-  <img alt="Nginx" width="32px" src="./icons/nginx.svg" />
-  <img alt="Bash" width="32px" src="./icons/bash.svg" />
-  <img alt="Node" width="32px" src="./icons/node.svg" />
-  <img alt="MongoDB" width="32px" src="./icons/mongodb.svg" />
+  <h3 align="center">Hey, I'm GeneTv</h3>
 </div>
 
-<div>
-  <img alt="Vue" width="32px" src="./icons/vue.svg" />
-  <img alt="Java" width="32px" src="./icons/java.svg" />
-  <img alt="Javascript" width="32px" src="./icons/javascript.svg" />
-  <img alt="Typescript" width="32px" src="./icons/typescript.svg" />
-  <img alt="HTML" width="32px" src="./icons/html.svg" />
-  <img alt="CSS" width="32px" src="./icons/css.svg" />
-  <img alt="CSS" width="32px" src="./icons/sass.svg" />
-  <img alt="MySQL" width="32px" src="./icons/mysql.svg" />
-</div>
+I like doing everything related to technology. At the moment I'm doing various things in DevOps and Full-Stack in web development. Also I'm working on [Traily](https://traily.ch), a pretty sick app to simplify train travel in europe. (^.^)
 
-<div>
-  <img alt="Google cloud" width="32px" src="./icons/google-cloud.svg" />
-  <img alt="Firebase" width="32px" src="./icons/firebase.svg" />
-  <img alt="Aws" width="32px" src="./icons/aws.svg" />
-  <img alt="Figma" width="32px" src="./icons/figma.svg" />
-</div>
+#### Collaborated on
 
+Traily - _All in one train trip booking platform_
 
-[website]: https://genetv.net
+<!-- TODO: Add the others -->
+
+#### Contact
+
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: contact@genetv.net
+- 🌐 Check out my website: https://genetv.net
+
+If you like what I do, feel free to buy me a coffee / help me keep running my services... ☕
+
+<a href='https://ko-fi.com/F2F59PEW9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
