@@ -14,7 +14,7 @@ Traily - _All in one train trip booking platform_
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: contact@genetv.net
-- 🌐 Check out my website: https://genetv.net
+- 🌐 Check out my website: https://genetv.cc
 
 If you like what I do, feel free to buy me a coffee / help me keep running my services... ☕
 
