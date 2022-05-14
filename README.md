@@ -2,7 +2,7 @@
   <h3 align="center">Hey, I'm GeneTv</h3>
 </div>
 
-I like doing everything related to technology. At the moment I'm doing various things in DevOps and Full-Stack in web development. Also I'm working on [Traily](https://traily.ch), a pretty sick app to simplify train travel in europe. (^.^)
+I like doing everything related to technology.
 
 #### Collaborated on
 
