@@ -13,8 +13,8 @@ Traily - _All in one train trip booking platform_
 #### Contact
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: contact@genetv.net
-- 🌐 Check out my website: https://genetv.cc
+- 📫 How to reach me: d@illan.ch
+- 🌐 Check out my website: https://d.illan.ch
 
 If you like what I do, feel free to buy me a coffee / help me keep running my services... ☕
 
