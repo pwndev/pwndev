@@ -1,20 +1,19 @@
-<div>
-  <h3 align="center">Hey, I'm GeneTv</h3>
+<div align="center">
+  <br>
+  <br>
+  <h3 >Hey, I'm Dillan</h3>
+  <samp>I create virtual life</samp>
+  <br>
+  <br>
 </div>
 
-I like doing everything related to technology.
+### 💬 Contact
+Ask me about anything, I am happy to help;  
 
-#### Collaborated on
+📫 How to **reach me** : d@illan.ch  
+🌐 **Visit** my website : https://d.illan.ch
 
-Traily - _All in one train trip booking platform_
-
-<!-- TODO: Add the others -->
-
-#### Contact
-
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: d@illan.ch
-- 🌐 Check out my website: https://d.illan.ch
+<br>
 
 If you like what I do, feel free to buy me a coffee / help me keep running my services... ☕
 
