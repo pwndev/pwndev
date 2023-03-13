@@ -17,4 +17,4 @@ Ask me about anything, I am happy to help;
 
 If you like what I do, feel free to buy me a coffee / help me keep running my services... ☕
 
-<a href='https://ko-fi.com/F2F59PEW9' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://support.illan.ch' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
